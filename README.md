@@ -1,4 +1,4 @@
-# Likes-prediction-using-Vision-Transformer
+# Instagram-likes-prediction-using-Vision-Transformer
 The task was to create a multimodal system capable of predicting the specific category of a post and the possible number of likes that post can get from Instagram. The core objective was to leverage the visual and numerical data from social media posts to predict the popularity of content, measured in terms of number of likes. This involved understanding the relationship between the content of a post (landscapes or animals) and its engagement metrics (likes, comments, and distribution).
 
 **The inspiration**
